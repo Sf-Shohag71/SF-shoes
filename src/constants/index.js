@@ -137,8 +137,8 @@ export const footerLinks = [
   {
     title: "Get in touch",
     links: [
-      { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-      { name: "+92554862354", link: "tel:+92554862354" },
+      { name: "customer@sfshoes.com", link: "mailto:shakhfarid71@gmail.com" },
+      { name: "+880 1517193670", link: "tel:+92554862354" },
     ],
   },
 ];
