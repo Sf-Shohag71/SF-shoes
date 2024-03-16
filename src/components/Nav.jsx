@@ -1,5 +1,6 @@
 import { hamburger } from "../assets/icons";
-import { headerLogo } from "../assets/images";
+import { siteLogo } from "../assets/images";
+
 import { navLinks } from "../constants";
 
 const Nav = () => {
@@ -8,11 +9,11 @@ const Nav = () => {
       <nav className='flex justify-between items-center max-container'>
         <a href='/'>
           <img
-            src={headerLogo}
+            src={siteLogo}
             alt='logo'
-            width={129}
-            height={29}
-            className='m-0 w-[129px] h-[29px]'
+            width={120}
+            height={60}
+            className='m-0 w-[120px] h-[60px]'
           />
         </a>
         <ul className='flex-1 flex justify-center items-center gap-16 max-lg:hidden'>

@@ -18,7 +18,7 @@ import {
   shoe7,
   thumbnailShoe1,
   thumbnailShoe2,
-  thumbnailShoe3,
+  thumbnailShoe3
 } from "../assets/images";
 
 export const navLinks = [
@@ -110,6 +110,13 @@ export const reviews = [
     feedback:
       "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
   },
+  {
+    imgURL: customer2,
+    customerName: "Lota Mongeskar",
+    rating: 4.5,
+    feedback:
+      "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
+  },
 ];
 
 export const footerLinks = [
@@ -138,7 +145,7 @@ export const footerLinks = [
     title: "Get in touch",
     links: [
       { name: "customer@sfshoes.com", link: "mailto:shakhfarid71@gmail.com" },
-      { name: "+880 1517193670", link: "tel:+92554862354" },
+      { name: "+880 1517193670", link: "tel:+8801517193670" },
     ],
   },
 ];
