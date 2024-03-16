@@ -35,7 +35,7 @@ export default function SpecialOffer() {
             label='Learn more'
             backgroundColor='bg-white'
             borderColor='border-slate-gray'
-            textColor='text-slate-gray'
+            textColor='text-slate-gray underline'
           />
         </div>
       </div>

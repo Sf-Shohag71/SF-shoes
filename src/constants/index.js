@@ -12,13 +12,14 @@ import {
   bigShoe3,
   customer1,
   customer2,
+  customer3,
   shoe4,
   shoe5,
   shoe6,
   shoe7,
   thumbnailShoe1,
   thumbnailShoe2,
-  thumbnailShoe3
+  thumbnailShoe3,
 } from "../assets/images";
 
 export const navLinks = [
@@ -106,16 +107,16 @@ export const reviews = [
   {
     imgURL: customer2,
     customerName: "Lota Mongeskar",
-    rating: 4.5,
+    rating: 4.9,
     feedback:
       "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
   },
   {
-    imgURL: customer2,
-    customerName: "Lota Mongeskar",
-    rating: 4.5,
+    imgURL: customer3,
+    customerName: "Jesus Potter",
+    rating: 4.8,
     feedback:
-      "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
+      "Awesome products, I love their services and commitment. Their products are top notch",
   },
 ];
 

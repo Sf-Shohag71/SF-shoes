@@ -4,8 +4,10 @@ import bigShoe3 from "./big-shoe3.png";
 
 import customer1 from "./customer1.jpeg";
 import customer2 from "./customer2.svg";
+import customer3 from "./customer3.jpeg";
 
-import footerLogo from "./footer-logo.svg";
+// import footerLogo from "./footer-logo.svg";
+import footerLogo from "./footerLogo.png";
 import headerLogo from "./header-logo.svg";
 import siteLogo from "./siteLogo.png";
 
@@ -29,6 +31,7 @@ export {
     bigShoe3,
     customer1,
     customer2,
+    customer3,
     footerLogo,
     headerLogo,
     offer, shoe10, shoe4,
