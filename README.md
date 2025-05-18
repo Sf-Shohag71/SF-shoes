@@ -6,12 +6,7 @@ Project Type:
 
 E-Commerce Web Application
 
-Live Project:
-
-SF-shoes | Source-code
-
-
-
+Live Project: https://glittery-dolphin-d5a24e.netlify.app/
 
 I developed the SF Shoes Landing Page, a dynamic and visually appealing online storefront designed to showcase high-quality shoe collections. Leveraging ReactJS and React Hooks, the application delivers a smooth, interactive experience with optimized performance through Vite. The UI is crafted using TailwindCSS, ensuring responsiveness and a sleek, modern design.
 
